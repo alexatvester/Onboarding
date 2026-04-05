@@ -1,0 +1,43 @@
+{
+  "company": {
+    "name": "Vester",
+    "stage": "",
+    "sector": "",
+    "location": "",
+    "one_liner": "",
+    "website": "",
+    "founded": "",
+    "team_size": "",
+    "traction": {
+      "revenue": "",
+      "growth_rate": "",
+      "users": "",
+      "key_metrics": []
+    }
+  },
+  "raise": {
+    "target_amount": "",
+    "instrument": "",
+    "valuation_cap": "",
+    "discount": "",
+    "use_of_funds": [],
+    "timeline": "",
+    "minimum_check_size": "",
+    "existing_investors": [],
+    "committed_so_far": ""
+  },
+  "ideal_investor": {
+    "stage_preference": [],
+    "sector_focus": [],
+    "check_size_range": { "min": 0, "max": 0 },
+    "geography": [],
+    "value_add_priorities": [],
+    "anti_patterns": []
+  },
+  "pitch": {
+    "deck_url": "",
+    "one_pager_url": "",
+    "data_room_url": "",
+    "calendly_link": ""
+  }
+}
